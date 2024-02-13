@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anumehra14/reactjan24.git/static/css/main.ad155181.css",
+    "main.js": "/anumehra14/reactjan24.git/static/js/main.66be7967.js",
+    "static/js/787.82f463ca.chunk.js": "/anumehra14/reactjan24.git/static/js/787.82f463ca.chunk.js",
+    "index.html": "/anumehra14/reactjan24.git/index.html",
+    "main.ad155181.css.map": "/anumehra14/reactjan24.git/static/css/main.ad155181.css.map",
+    "main.66be7967.js.map": "/anumehra14/reactjan24.git/static/js/main.66be7967.js.map",
+    "787.82f463ca.chunk.js.map": "/anumehra14/reactjan24.git/static/js/787.82f463ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad155181.css",
+    "static/js/main.66be7967.js"
+  ]
+}
